@@ -6,7 +6,7 @@ This is my submitted code for finishing one of the projects on <a href = https:/
 * My code in the provided test settings: https://replit.com/@kkralik/boilerplate-polygon-area-calculator-1#shape_calculator.py
 
 ## Brief description:
-The code contains objects Rectangle and Square with a few methods, which can calculate basic information about the shape from provided dimensions.
+The code contains classes Rectangle and Square with a few methods, which can calculate basic information about the shape from provided dimensions.
 
 example:
 
